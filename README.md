@@ -1,2 +1,2 @@
 # html-simple
-Demonstration of HTML Constructs
+Demonstrates HTML Constructs
